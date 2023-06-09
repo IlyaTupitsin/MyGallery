@@ -32,3 +32,4 @@ public class ImageHelper {
         return BitmapFactory.decodeFile(pathname, options);
     }
 }
+
